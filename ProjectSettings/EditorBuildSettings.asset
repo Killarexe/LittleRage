@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Title Screen.unity
+    guid: 45ec2a65f081666498aa59cc417c97cd
+  - enabled: 1
+    path: Assets/Scenes/MultiplayerLevels/Rooms.unity
+    guid: a2e137346ebabb546accb1bf4d054285
+  - enabled: 1
+    path: Assets/Scenes/MultiplayerLevels/Game1.unity
+    guid: 889de4372048afc4daa0dd2c3c8d0021
+  - enabled: 1
+    path: Assets/Scenes/ShopMenu.unity
+    guid: cb6b9b3e7d52fb940ba9eafb9e80c7d3
+  - enabled: 1
+    path: Assets/Scenes/SoloLevels/Level1.unity
+    guid: fbae76677eff61944971c99634c07a3c
+  - enabled: 1
+    path: Assets/Scenes/SoloLevels/Level2.unity
+    guid: f3cc9d37fe4b89243a6347cd30463f2b
+  m_configObjects: {}
